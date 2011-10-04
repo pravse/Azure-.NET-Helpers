@@ -49,7 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AzurePaaS.cs" />
+    <Compile Include="AzureHelper.cs" />
     <Compile Include="StorageQueue.cs" />
     <Compile Include="IQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
